@@ -22,7 +22,7 @@ public class JavaCodeEight {
 	    }
 	    
 	    public static void main(String[] args) {
-	        String[] strs1 = {"flower", "flow", "flight"};
+	        String[] strs1 = {"flower", "tflow", "flight","small"};
 	        System.out.println("Longest common prefix 1: " + Prefix(strs1)); 
 
 	    }
